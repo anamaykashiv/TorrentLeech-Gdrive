@@ -5,7 +5,7 @@ class Config(Config):
     APP_ID = 2814333
     API_HASH = "a4a7d01c04c2edb86e034234ee7c950f"
     AUTH_CHANNEL = [-1001171321074 -1001198967649]
-    INDEX_LINK = "https://jarvismirror.anamay.workers.dev"
+    INDEX_LINK = "https://jarvismirror.anamay.workers.dev/0:/jarvis%20mirror"
     OWNER_ID = 1479420774
     GLEECH_COMMAND = "gleech"
     YTDL_COMMAND = 'ytdl'
@@ -13,7 +13,7 @@ class Config(Config):
     CLONE_COMMAND_G = "gclone"
     PYTDL_COMMAND_G = "pytdl"
     STATUS_COMMAND = "status"
-    DESTINATION_FOLDER = "TorrentLeech-Gdrive"
+    DESTINATION_FOLDER = ""
     LEECH_COMMAND = "leech"
     #fill your rclone config like this(Your config may have some extra value or less. so Don't worry)
     # Do not delete [DRIVE] #do not delete [DRIVE] but replace remaining part with yours data..if more data use common sense
