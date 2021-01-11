@@ -4,7 +4,7 @@ class Config(Config):
     TG_BOT_TOKEN= "1556682867:AAEXDAhwdU1Ur3ye4XrXkTJy6ZEPXzOYAbI"
     APP_ID = 2814333
     API_HASH = "a4a7d01c04c2edb86e034234ee7c950f"
-    AUTH_CHANNEL = -1001171321074 -1001198967649
+    AUTH_CHANNEL = "-1001171321074 -1001198967649"
     INDEX_LINK = "https://jarvismirror.anamay.workers.dev/0:/jarvis%20mirror"
     OWNER_ID = 1479420774
     GLEECH_COMMAND = "gleech"
