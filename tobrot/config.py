@@ -7,14 +7,14 @@ class Config(Config):
     AUTH_CHANNEL = [-1001198967649, -1001171321074]
     INDEX_LINK = "https://jarvismirror.anamay.workers.dev/0:/jarvis%20mirror"
     OWNER_ID = 1479420774
-    GLEECH_COMMAND = "gleech"
-    YTDL_COMMAND = 'ytdl'
-    TELEGRAM_LEECH_COMMAND_G = "tleech"
-    CLONE_COMMAND_G = "gclone"
-    PYTDL_COMMAND_G = "pytdl"
-    STATUS_COMMAND = "status"
+    GLEECH_COMMAND = "gleech@Jarvisurluploadbot"
+    YTDL_COMMAND = 'ytdl@Jarvisurluploadbot'
+    TELEGRAM_LEECH_COMMAND_G = "tleech@Jarvisurluploadbot"
+    CLONE_COMMAND_G = "gclone@Jarvisurluploadbot"
+    PYTDL_COMMAND_G = "pytdl@Jarvisurluploadbot"
+    STATUS_COMMAND = "status@Jarvisurluploadbot"
     DESTINATION_FOLDER = ""
-    LEECH_COMMAND = "leech"
+    LEECH_COMMAND = "leech@Jarvisurluploadbot"
     #fill your rclone config like this(Your config may have some extra value or less. so Don't worry)
     # Do not delete [DRIVE] #do not delete [DRIVE] but replace remaining part with yours data..if more data use common sense
     RCLONE_CONFIG = """
